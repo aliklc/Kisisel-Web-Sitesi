@@ -178,3 +178,25 @@ a {
     transition: color 0.3s ease;
 }
 
+.dark-mode {
+    background-color: #222 !important;
+    color: #fff !important;
+}
+
+.dark-mode .anabaşlık {
+    color: #fff !important;
+}
+
+.dark-mode .card {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+.dark-mode .navbar {
+    background-color: #111 !important;
+}
+
+.dark-mode footer {
+    background-color: #111 !important;
+}
+
